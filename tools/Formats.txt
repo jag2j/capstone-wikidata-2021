@@ -1,0 +1,7 @@
+Edge file - a CSV file with a list of Wikidata property connections between edges.
+
+   subject,property,object
+   1,2,3
+
+   ...
+
